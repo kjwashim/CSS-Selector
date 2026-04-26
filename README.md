@@ -1,5 +1,4 @@
 # CSS-Selector
-Task-3
 # Laundry Mart
 
 A simple HTML and CSS project for a laundry service webpage.
@@ -36,11 +35,8 @@ A simple HTML and CSS project for a laundry service webpage.
 
 ---
 
-## Technologies Used
+## Used
 
 * HTML
 * CSS
 
----
-
-This project is for learning basic web development.
