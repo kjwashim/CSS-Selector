@@ -1,0 +1,57 @@
+/* Background for the whole page */
+body {
+    background-color: #ff7f50; /* Coral/Orange background */
+    font-family: Arial, sans-serif;
+}
+
+/* Class Selector */
+.head {
+    color: #000080; /* Navy blue text */
+}
+
+/* ID Selector with background color */
+#bglime {
+    background-color: #32cd32; /* Lime green */
+    padding: 10px;
+}
+
+/* Specific styling for spans within the h2 */
+.red-text {
+    color: red;
+}
+
+/* Element Selector for paragraphs */
+p {
+    color: white;
+}
+
+#para{
+    color: rgb(11, 175, 28);
+}
+
+/* Styling for the bold word in the paragraph */
+.bold-black {
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* Selector for anchor tags within list items */
+
+li a {
+    background-color: yellow;
+    text-decoration: none;
+}
+ul li:nth-child(2) a {
+    background-color: blue;
+    color: white;
+}
+
+/* Styling specific list items using nth-child */
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
